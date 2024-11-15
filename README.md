@@ -1,5 +1,5 @@
 # DataDuino
-Data logger en arduino para conectar sensores analógicos.
+*Da*ta logger en arduino para conectar sensores analógicos.
 
 # Usos:
 # 1
